@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Lab 1: Security Testing Environment](./lab_1_security_testing_environment.md)

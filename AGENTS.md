@@ -10,7 +10,9 @@
 ## Project Structure
 - `outline.md` - **Course outline defining all chapters, theory lectures, and practical labs**
 - `src/` - mdBook lab manuals (Markdown)
+  - Lab files named as: `lab_[number]_[title].md` (e.g., `lab_1_security_testing_environment.md`)
 - `powerpoints/` - Marp lecture slides (Markdown with Marp directives)
+  - Slide files named as: `chapter_[number]_theory.md` (e.g., `chapter_1_theory.md`)
 - `theme/` - mdBook custom theme (CSS, fonts, JS)
 
 ## Content Guidelines
