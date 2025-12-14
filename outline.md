@@ -87,7 +87,7 @@
 **Practical Lab :**
 
 - Static analysis using Semgrep on vulnerable code samples
-- Running automated OWASP ZAP scans against DVWA
+- Running automated OWASP ZAP scans against OWASP Juice Shop
 - Manual code review exercise identifying common vulnerabilities
 - Comparing SAST vs DAST findings on the same application
 
